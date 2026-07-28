@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1390-four-divisors](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1390-four-divisors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1528-shuffle-string](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1528-shuffle-string) |
 | [2239-find-closest-number-to-zero](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2239-find-closest-number-to-zero) |
 ## Enumeration
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [1528-shuffle-string](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1528-shuffle-string) |
 <!---LeetCode Topics End-->
