@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
