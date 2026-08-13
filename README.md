@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0877-stone-game) |
 | [1390-four-divisors](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1952-three-divisors) |
+| [2549-count-distinct-numbers-on-board](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3908-valid-digit-number](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3908-valid-digit-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1528-shuffle-string) |
 | [2239-find-closest-number-to-zero](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2239-find-closest-number-to-zero) |
+| [2549-count-distinct-numbers-on-board](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Enumeration
 |  |
@@ -79,5 +81,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2549-count-distinct-numbers-on-board](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Simulation
+|  |
+| ------- |
+| [2549-count-distinct-numbers-on-board](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 <!---LeetCode Topics End-->
