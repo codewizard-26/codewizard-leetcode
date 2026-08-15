@@ -99,4 +99,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0404-sum-of-left-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0404-sum-of-left-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
