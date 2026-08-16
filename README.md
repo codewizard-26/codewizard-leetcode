@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0965-univalued-binary-tree](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0965-univalued-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -123,4 +124,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0965-univalued-binary-tree](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0965-univalued-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
