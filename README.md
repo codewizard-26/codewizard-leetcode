@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3842-toggle-light-bulbs](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3842-toggle-light-bulbs) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1528-shuffle-string](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1528-shuffle-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Stack
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0821-shortest-distance-to-a-character](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [2367-number-of-arithmetic-triplets](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Hash Table
 |  |
 | ------- |
