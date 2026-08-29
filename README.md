@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3833-count-dominant-indices](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3833-count-dominant-indices) |
 | [3842-toggle-light-bulbs](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3842-toggle-light-bulbs) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Enumeration
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0821-shortest-distance-to-a-character](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [2367-number-of-arithmetic-triplets](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Hash Table
 |  |
