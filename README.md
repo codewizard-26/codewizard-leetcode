@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3870-count-commas-in-range) |
+| [3894-traffic-signal-color](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3908-valid-digit-number) |
 ## Array
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1528-shuffle-string](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1528-shuffle-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3894-traffic-signal-color](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3894-traffic-signal-color) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Stack
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3842-toggle-light-bulbs](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3842-toggle-light-bulbs) |
+| [3894-traffic-signal-color](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Trie
 |  |
