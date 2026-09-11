@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0877-stone-game) |
 | [1390-four-divisors](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2427-number-of-common-factors) |
 | [2549-count-distinct-numbers-on-board](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -45,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2427-number-of-common-factors](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3833-count-dominant-indices](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3833-count-dominant-indices) |
 ## Number Theory
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2427-number-of-common-factors) |
 ## Sorting
 |  |
 | ------- |
@@ -167,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
