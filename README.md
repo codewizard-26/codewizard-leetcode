@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1528-shuffle-string](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1528-shuffle-string) |
+| [1991-find-the-middle-index-in-array](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2239-find-closest-number-to-zero](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2367-number-of-arithmetic-triplets](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2549-count-distinct-numbers-on-board](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Euclidean Algorithm
 |  |
