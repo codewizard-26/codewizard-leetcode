@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1528-shuffle-string](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1528-shuffle-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3884-first-matching-character-from-both-ends](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3894-traffic-signal-color) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Stack
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0821-shortest-distance-to-a-character](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [2367-number-of-arithmetic-triplets](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [3884-first-matching-character-from-both-ends](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Hash Table
