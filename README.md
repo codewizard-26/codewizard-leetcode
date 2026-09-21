@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3908-valid-digit-number) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/codewizard-26/codewizard-leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Array
 |  |
 | ------- |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2427-number-of-common-factors) |
+## Greedy
+|  |
+| ------- |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/codewizard-26/codewizard-leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 <!---LeetCode Topics End-->
