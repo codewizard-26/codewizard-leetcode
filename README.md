@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0724-find-pivot-index) |
 | [0821-shortest-distance-to-a-character](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1390-four-divisors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0013-roman-to-integer) |
+| [0904-fruit-into-baskets](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0904-fruit-into-baskets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2549-count-distinct-numbers-on-board](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
