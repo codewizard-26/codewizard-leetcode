@@ -198,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2578-split-with-minimum-sum](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2578-split-with-minimum-sum) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/codewizard-26/codewizard-leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
