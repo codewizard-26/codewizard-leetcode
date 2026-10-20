@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2239-find-closest-number-to-zero](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2367-number-of-arithmetic-triplets](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0013-roman-to-integer) |
 | [0904-fruit-into-baskets](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0904-fruit-into-baskets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
