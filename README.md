@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3833-count-dominant-indices](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3833-count-dominant-indices) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3842-toggle-light-bulbs](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Simulation
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1051-height-checker) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 ## Bubble Sort
 |  |
 | ------- |
