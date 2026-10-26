@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0724-find-pivot-index) |
 | [0821-shortest-distance-to-a-character](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1051-height-checker](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0016-3sum-closest) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0821-shortest-distance-to-a-character](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0881-boats-to-save-people](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0881-boats-to-save-people) |
 | [2367-number-of-arithmetic-triplets](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3884-first-matching-character-from-both-ends](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0881-boats-to-save-people) |
 | [2578-split-with-minimum-sum](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2578-split-with-minimum-sum) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/codewizard-26/codewizard-leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Bracket Sequences
@@ -248,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0042-trapping-rain-water) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
