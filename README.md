@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0347-top-k-frequent-elements](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0724-find-pivot-index) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0016-3sum-closest) |
+| [0347-top-k-frequent-elements](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1051-height-checker) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0013-roman-to-integer) |
+| [0347-top-k-frequent-elements](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0904-fruit-into-baskets](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0904-fruit-into-baskets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/codewizard-26/codewizard-leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/codewizard-26/codewizard-leetcode/tree/master/1051-height-checker) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 ## Bubble Sort
@@ -256,4 +261,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0881-boats-to-save-people) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/codewizard-26/codewizard-leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
