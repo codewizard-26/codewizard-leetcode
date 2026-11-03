@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3894-traffic-signal-color) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3833-count-dominant-indices](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3833-count-dominant-indices) |
 | [3842-toggle-light-bulbs](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3925-concatenate-array-with-reverse](https://github.com/codewizard-26/codewizard-leetcode/tree/master/3925-concatenate-array-with-reverse) |
